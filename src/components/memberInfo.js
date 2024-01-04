@@ -1,0 +1,55 @@
+const memberInfo = [
+  {
+    id: 1,
+    img: '/images/1.jpeg',
+    name: 'Alice Johnson',
+    position: 'Software Developer',
+    phone: '+49 11111111',
+    email: 'alice.johnson@company1.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpeg',
+    name: 'Bob Smith',
+    position: 'Marketing Specialist',
+    phone: '+49 22222222',
+    email: 'bob.smith@company2.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Charlie Davis',
+    position: 'Graphic Designer',
+    phone: '+49 33333333',
+    email: 'charlie.davis@company3.com',
+    website: 'charliedavis.com',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpeg',
+    name: 'David Franks',
+    position: 'Project Manager',
+    phone: '+49 44444444',
+    email: 'david.franks@company4.com',
+  },
+  {
+    id: 5,
+    img: '/images/5.jpeg',
+    name: 'Eva White',
+    position: 'Data Analyst',
+    phone: '+49 55555555',
+    email: 'eva.white@company5.com',
+    website: 'evawhite.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpeg',
+    name: 'Frank Johnson',
+    position: 'UX/UI Designer',
+    phone: '+49 66666666',
+    email: 'frank.johnson@company6.com',
+    website: 'frankjohnson.com',
+  },
+];
+
+export default memberInfo;
